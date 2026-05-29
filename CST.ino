@@ -28,11 +28,7 @@ void setup() {
 }
 
 void loop() {
-  // Debug — remove later
-  Serial.print("I1: "); Serial.print(digitalRead(INNER_PIN_1));
-  Serial.print("  I2: "); Serial.print(digitalRead(INNER_PIN_2));
-  Serial.print("  OUT: "); Serial.println(digitalRead(OUTER_PIN));
-
+  
   // Reset button
   if (digitalRead(RESET_BTN) == LOW) {
     delay(50);
