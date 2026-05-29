@@ -1,5 +1,7 @@
 # Capillary Suction Timer (CST)
 
+**Hardware build in progress — documentation added ahead of completion.**
+
 Built for a Karachi-based engineering startup [ogengg.com](https://ogengg.com/) as a low-cost alternative to commercial CST instruments. Commercial units from companies like OFITE typically cost $500–$1,500 USD — this builds a functional equivalent for under $35.
 
 ## What is this device and what does it do
